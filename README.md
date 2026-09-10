@@ -8,7 +8,7 @@ The framework uses two separate models for prediction. **CatBoost** is used to p
 
 ---
 
-### Live Demo
+## Live Demo
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-MediFusion%20AI-blue?style=for-the-badge)](https://cau-fusion-app.streamlit.app/)
 
