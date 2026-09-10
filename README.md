@@ -8,6 +8,12 @@ The framework uses two separate models for prediction. **CatBoost** is used to p
 
 ---
 
+### Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-MediFusion%20AI-blue?style=for-the-badge)](https://cau-fusion-app.streamlit.app/)
+
+---
+
 ## Project Overview
 
 Clinical records and retinal fundus images provide different types of information for prediction. In this project, they are processed separately using specialized models, and their prediction probabilities are combined at the prediction stage.
